@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Virat",
+        "age": 36,
+        "email": "Virat@gmail.com",
+        "pin": "6789",
+        "account_number": 13351866,
+        "balance": 20000.0
+    },
+    {
+        "name": "rohit",
+        "age": 20,
+        "email": "ro@gmail.com",
+        "pin": "4444",
+        "account_number": 26337654,
+        "balance": 900000.0
+    },
+    {
+        "name": "AAN",
+        "age": 33,
+        "email": "AAN@gmail.com",
+        "pin": "6069",
+        "account_number": 45094602,
+        "balance": 0
+    }
+]

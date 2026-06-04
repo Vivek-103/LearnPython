@@ -1,0 +1,26 @@
+[
+    {
+        "name": "virat",
+        "age": 23,
+        "email": "virat@gmail.com",
+        "pin": 1234,
+        "accountNO.": 1234,
+        "balance": 0
+    },
+    {
+        "name": "virat",
+        "age": 23,
+        "email": "virat@gmail.com",
+        "pin": "2314",
+        "accountNO": 44252449,
+        "balance": 0
+    },
+    {
+        "name": "vivek",
+        "age": 23,
+        "email": "viv@gmail.com",
+        "pin": "1234",
+        "accountNO": 73379221,
+        "balance": 0
+    }
+]
